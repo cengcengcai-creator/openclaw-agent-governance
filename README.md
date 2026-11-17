@@ -89,6 +89,12 @@ MIT-0. Use, modify, redistribute — no attribution required.
 
 ---
 
+## 背景长文（为什么是这五个）
+
+《[规则、闸门与减法：一个长期在线 Agent 的治理复盘](docs/rules-gates-and-subtraction.md)》——六次翻车与六个机制，约 3,300 字。先看动机，再看工具。
+
+---
+
 ## 中文说明
 
 这套技能解决的是**「规则写了但不生效」**这个问题，不是提供更多提示词。
